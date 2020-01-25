@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0269b030-f337-446b-a089-556b20aec7ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V2YLM8VZQtnHiJuu0KOgbj6XCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.PlusMinus">
+    <configuration name="MinMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMaxSum" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlusMinus" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StairCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StairCase" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeConversion" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="birthdayCakeCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="birthdayCakeCandles" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlusMinus" />
+        <item itemvalue="Application.TimeConversion" />
+        <item itemvalue="Application.birthdayCakeCandles" />
+        <item itemvalue="Application.MinMaxSum" />
+        <item itemvalue="Application.StairCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0269b030-f337-446b-a089-556b20aec7ff" name="Default Changelist" comment="" />
+      <created>1576452599484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576452599484</updated>
+      <workItem from="1576452602136" duration="7032000" />
+      <workItem from="1576474004305" duration="5445000" />
+      <workItem from="1576516062106" duration="3701000" />
+      <workItem from="1576603684146" duration="765000" />
+      <workItem from="1577131408761" duration="16285000" />
+      <workItem from="1577669426344" duration="1243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1576478664710">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="466" y="131" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1576478664710" />
+    <state x="554" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576454557004">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="554" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.797@0.23.1440.797" timestamp="1576454557004" />
+    <state x="308" y="85" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1576454545083">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="308" y="85" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1440.797@0.23.1440.797" timestamp="1576454545083" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1577998735528">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577998735528" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1577998735528">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1577998735528" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1577998735527">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1577998735527" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1577998735528">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1577998735528" />
+    <state width="1358" height="237" key="GridCell.Tab.1.bottom" timestamp="1576463035445">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1576463035445" />
+    <state width="1358" height="237" key="GridCell.Tab.1.center" timestamp="1576463035444">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1576463035444" />
+    <state width="1358" height="237" key="GridCell.Tab.1.left" timestamp="1576463035444">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1576463035444" />
+    <state width="1358" height="237" key="GridCell.Tab.1.right" timestamp="1576463035444">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1576463035444" />
+    <state x="506" y="114" key="NewModule_or_Project.wizard" timestamp="1576603890745">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="506" y="114" key="NewModule_or_Project.wizard/0.23.1440.797@0.23.1440.797" timestamp="1576603890745" />
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579920870842">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1579920870842" />
+    <state x="405" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576564220426">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="405" y="45" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1576564220426" />
+  </component>
+</project>
